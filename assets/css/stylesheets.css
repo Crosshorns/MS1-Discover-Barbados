@@ -1,3 +1,7 @@
 {
     margin-right: auto !important
 }
+.navbar{
+    text-align: center;
+    flex: 1;
+}
