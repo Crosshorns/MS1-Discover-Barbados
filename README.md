@@ -27,5 +27,13 @@ The website has been designed as a place on the internet to be of interest to tr
 
 1.1 ## User Goals
 
-The main goal of this website is to provide useful information 
+The main goal of this website is to provide useful information of places of interest and relatively low cost within Barbados to interested parties within the global travelling and vacationing communities.
 
+1.2 ## User Expectations
+
+The website provides knowledge regarding certain places of interest and places to eat in Barbados for those who may not have been before or those who may be seekeing a low cost or novel alternative on the island.
+
+The following user expectations were considered while designing the site:
+-The website structure was designed to be responsive for all screen and device sizes, including desktop computer screens, tablets and mobile telephones.
+-The user interface is straightforward to use and includes a navigation bar which collapses to e smaller as the size of the screen, device or 'phone decreases.
+-The website is, on the whole, easy to use, with simple navigation between the three pages, Home, Tourist Info and Contact Us 
