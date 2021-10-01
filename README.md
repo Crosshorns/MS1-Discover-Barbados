@@ -63,9 +63,28 @@ Initially errors were notified on the HTML Mark up tests, but these were cleared
 
 A test was also run for CSS, and no errors were found.
 
-![](....images/Screenshot_2021-09-30_at_18.39.23.png)
+![w3c validator 1](images/Screenshot_2021-09-30_at_18.39.23.png)
 
-![](images/Screenshot_2021-09-30_at_19.28.20.png)
+
+
+
+
+
+
+
+
+
+![w3c validator 2](images/Screenshot_2021-09-30_at_19.28.20.png)
+
+
+
+
+
+
+
+
+
+
 
 Google Developer Tools
 
