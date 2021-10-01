@@ -36,4 +36,8 @@ The website provides knowledge regarding certain places of interest and places t
 The following user expectations were considered while designing the site:
 -The website structure was designed to be responsive for all screen and device sizes, including desktop computer screens, tablets and mobile telephones.
 -The user interface is straightforward to use and includes a navigation bar which collapses to e smaller as the size of the screen, device or 'phone decreases.
--The website is, on the whole, easy to use, with simple navigation between the three pages, Home, Tourist Info and Contact Us 
+-The website is, on the whole, easy to use, with simple navigation between the three pages, Home, Tourist Info and Contact Us; most useful information for the users can be found on the Tourist Info page, including high resolution images of places of interest. 
+
+1.3 ## Colour Scheme
+
+Initially, the colour scheme used was intended to blend in with the flag and identity of Barbados; a bold yellow and deep blue, which in turn blend in with its famously sunny weather and blue seas. However, after some consideration of accessibility, I settled on the view that a brilliant white (#ffffff) would blend nicely with the blue navigation bar for accesibility. The blue and white also blend in well with the images on the website.
