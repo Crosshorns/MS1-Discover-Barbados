@@ -46,6 +46,14 @@ Initially, the colour scheme used was intended to blend in with the flag and ide
 
 The websites wireframes were created using Balsamiq software, in order to create UI designs with templates. The original wireframes for this project were designed for mobile browsers and web browsers.
 
+3. ## Technologies used
+
+-[HTML5]
+-[CSS3]
+-[Balsamiq]
+-[GitHub]
+-[Gitpod]
+-[W3C Markup]
 4. ## Testing
 
 W3C Validator Tools
