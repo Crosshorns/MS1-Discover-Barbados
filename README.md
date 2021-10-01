@@ -54,3 +54,16 @@ Code
 https://www.google.co.uk/amp/s/www.geeksforgeeks.org/responsive-images-in-bootstrap-with-examples/amp/
 )
 -Installing social media buttons; 6 ways to integrate social media buttons into your website - LogRocket Blog. (https://blog.logrocket.com/6-ways-to-integrate-social-media-buttons-into-your-website/)
+-HTML img tags inspired by (https://www.w3schools.com/tags/tag_img.asp)
+How to Create, Edit & Make your Navbar Awesome in Bootstrap 
+(https://blog.hubspot.com/website/bootstrap-navbar)
+-HTML div tags (https://www.w3schools.com/tags/tag_div.ASP)
+-HTML Styles CSS (https://www.w3schools.com/html/html_css.asp)
+
+Content
+- Small Barbados Flag (https://flaglane.com/download/barbados-flag/barbados-flag-small.png)
+- Latin placeholder text (https://placeholder.com/text/lorem-ipsum/)
+- Miami Beach Barbados photo; free of charge (https://www.pexels.com/photo/sea-beach-vacation-sand-8920863/)
+Miami Beach Barbados written content (https://en.wikipedia.org/wiki/Miami_Beach,_Barbados)
+Harrison's Cave written content (https://en.wikipedia.org/wiki/Harrison%27s_Cave)
+This name of the website was an original idea, but later it was found on facebook to share the same name as Discover Barbados TV. The website link is made to that Facebook page.
