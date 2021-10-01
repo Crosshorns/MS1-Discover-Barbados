@@ -66,6 +66,11 @@ Ipad
 
 An independent party tested the website for navigation through its pages, responsiveness and accessibility on each device, and that party was more than satisfied that the website had passed each of these tests on each device.
 
+6. ## Deployment
+
+The website was deployed to GitHub Pages by the following actions:
+I created a Github account. I then created a new repository in Github. I then clicked on settings, and selected Pages on the left menu bar. A live website link was then produced.
+
 7. ## Acknoledgement
 
 Code
