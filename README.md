@@ -63,6 +63,10 @@ Initially errors were notified on the HTML Mark up tests, but these were cleared
 
 A test was also run for CSS, and no errors were found.
 
+![](....images/Screenshot_2021-09-30_at_18.39.23.png)
+
+![](images/Screenshot_2021-09-30_at_19.28.20.png)
+
 Google Developer Tools
 
 Manual Testing
@@ -84,7 +88,7 @@ Some bugs encountered during the coding phase were caused by: unclosed div tags,
 The website was deployed to GitHub Pages by the following actions:
 I created a Github account. I then created a new repository in Github. I then clicked on settings, and selected Pages on the left menu bar. A live website link was then produced.
 
-7. ## Acknoledgement
+7. ## Acknowledgement
 
 Code
 -The starter template for HTML5, DOCTYPE, other start-up scripts for CSS and Navigation bar came courtesy of [Bootstrap] (https://getbootstrap.com/docs/5.1/getting-started/introduction/?)
