@@ -46,6 +46,10 @@ Initially, the colour scheme used was intended to blend in with the flag and ide
 
 The websites wireframes were created using Balsamiq software, in order to create UI designs with templates. The original wireframes for this project were designed for mobile browsers and web browsers.
 
+2. ## Features
+
+Navigation bar, Home, Tourist Info, Contact Us, Social Media links
+
 3. ## Technologies used
 
 -[HTML5]
@@ -74,7 +78,9 @@ A test was also run for CSS, and no errors were found.
 
 
 
-<img src="Screenshot_2021-09-30_at_19.28.20.png" alt="w3c validator 2"
+
+
+![w3c validator 2](images/Screenshot_2021-09-30_at_19.28.20.png)
 
 
 
@@ -129,3 +135,4 @@ Content
 -Harrison's Cave written content (https://en.wikipedia.org/wiki/Harrison%27s_Cave)
 -This name of the website was an original idea, but later it was found on facebook to share the same name as Discover Barbados TV. The website link is made to that Facebook page.
 -Instagram, Pinterest and Facebook icons: (https://www.iconfinder.com/social-media-icons)
+-Inspiration for README from examples forwarded to me by my tutor.
