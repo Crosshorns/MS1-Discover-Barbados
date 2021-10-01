@@ -74,7 +74,7 @@ A test was also run for CSS, and no errors were found.
 
 
 
-![w3c validator 2](images/Screenshot_2021-09-30_at_19.28.20.png)
+<img src="Screenshot_2021-09-30_at_19.28.20.png" alt="w3c validator 2"
 
 
 
