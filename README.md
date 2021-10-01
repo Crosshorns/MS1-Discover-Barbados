@@ -46,6 +46,26 @@ Initially, the colour scheme used was intended to blend in with the flag and ide
 
 The websites wireframes were created using Balsamiq software, in order to create UI designs with templates. The original wireframes for this project were designed for mobile browsers and web browsers.
 
+4. ## Testing
+
+W3C Validator Tools
+
+Initially errors were notified on the HTML Mark up tests, but these were cleared and then on subsequently running the test, no eerors were found.
+
+A test was also run for CSS, and no errors were found.
+
+Google Developer Tools
+
+Manual Testing
+
+The website was tested on the following laptops, devices and 'phones:
+Apple Macbook Pro
+Apple Iphone 11
+Samsung
+Ipad
+
+An independent party tested the website for navigation through its pages, responsiveness and accessibility on each device, and that party was more than satisfied that the website had passed each of these tests on each device.
+
 7. ## Acknoledgement
 
 Code
@@ -64,6 +84,7 @@ Content
 - Small Barbados Flag (https://flaglane.com/download/barbados-flag/barbados-flag-small.png)
 - Latin placeholder text (https://placeholder.com/text/lorem-ipsum/)
 - Miami Beach Barbados photo; free of charge (https://www.pexels.com/photo/sea-beach-vacation-sand-8920863/)
-Miami Beach Barbados written content (https://en.wikipedia.org/wiki/Miami_Beach,_Barbados)
-Harrison's Cave written content (https://en.wikipedia.org/wiki/Harrison%27s_Cave)
-This name of the website was an original idea, but later it was found on facebook to share the same name as Discover Barbados TV. The website link is made to that Facebook page.
+-Miami Beach Barbados written content (https://en.wikipedia.org/wiki/Miami_Beach,_Barbados)
+-Harrison's Cave written content (https://en.wikipedia.org/wiki/Harrison%27s_Cave)
+-This name of the website was an original idea, but later it was found on facebook to share the same name as Discover Barbados TV. The website link is made to that Facebook page.
+-Instagram, Pinterest and Facebook icons: (https://www.iconfinder.com/social-media-icons)
