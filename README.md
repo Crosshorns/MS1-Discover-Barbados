@@ -41,3 +41,16 @@ The following user expectations were considered while designing the site:
 1.3 ## Colour Scheme
 
 Initially, the colour scheme used was intended to blend in with the flag and identity of Barbados; a bold yellow and deep blue, which in turn blend in with its famously sunny weather and blue seas. However, after some consideration of accessibility, I settled on the view that a brilliant white (#ffffff) would blend nicely with the blue navigation bar for accesibility. The blue and white also blend in well with the images on the website.
+
+1.4 Site Skeleton
+
+The websites wireframes were created using Balsamiq software, in order to create UI designs with templates. The original wireframes for this project were designed for mobile browsers and web browsers.
+
+7. ## Acknoledgement
+
+Code
+-The starter template for HTML5, DOCTYPE, other start-up scripts for CSS and Navigation bar came courtesy of [Bootstrap] (https://getbootstrap.com/docs/5.1/getting-started/introduction/?)
+-Responsive images in Bootstrap with Examples - Geeks for Geeks (https://www.geeksforgeeks.org/responsive-images-in-bootstrap-with-examples/
+https://www.google.co.uk/amp/s/www.geeksforgeeks.org/responsive-images-in-bootstrap-with-examples/amp/
+)
+-Installing social media buttons; 6 ways to integrate social media buttons into your website - LogRocket Blog. (https://blog.logrocket.com/6-ways-to-integrate-social-media-buttons-into-your-website/)
