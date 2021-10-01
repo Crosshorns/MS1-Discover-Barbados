@@ -54,6 +54,7 @@ The websites wireframes were created using Balsamiq software, in order to create
 -[GitHub]
 -[Gitpod]
 -[W3C Markup]
+
 4. ## Testing
 
 W3C Validator Tools
@@ -73,6 +74,10 @@ Samsung
 Ipad
 
 An independent party tested the website for navigation through its pages, responsiveness and accessibility on each device, and that party was more than satisfied that the website had passed each of these tests on each device.
+
+5. ## Bugs
+
+Some bugs encountered during the coding phase were caused by: unclosed div tags, image files with names which included spaces. I solved the first one by creating closing tags where appropriate; the second type of bug was solved by removing the spaces in the file names of the images by using underscore characters.
 
 6. ## Deployment
 
